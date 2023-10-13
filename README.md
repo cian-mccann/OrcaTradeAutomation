@@ -20,7 +20,7 @@ I loved using Orca and found it functioned as the developers intended. Back then
 - Make a record of all bids placed for all assets, the size of each bid in UST/USD, and their selected discount.
 - Monitor all bids to check if a bid was filled.
 - If a bid of the correct size was filled, withdraw the asset acquired at a discount from Orca to my Terra wallet.
-- Swap that asset in my Terra wallet back into UST/USD to profit from the discount.
+- Swap that asset in my Terra wallet back into UST/USD though the TerraSwap exchange router to profit from the discount.
 - Calculate and display all information about the bid, transaction, and profit made/lost.
 - Continue to run until all bids on each asset are filled, while displaying a UI element/JFrame that allowed for bids to be reset without having to stop the program.
 
